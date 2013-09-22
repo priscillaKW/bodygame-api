@@ -5,10 +5,12 @@ ruby '2.0.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
+gem 'mongoid', github: 'mongoid/mongoid'
+
 gem 'rails-api'
 
 # Use postgresql as the database for Active Record
-gem 'pg'
+# gem 'pg'
 
 group :development, :test do
   gem 'rspec-rails',        '~> 2.14.0'

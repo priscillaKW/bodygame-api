@@ -2,7 +2,11 @@ class UsersController < ApplicationController
   def show
     @user = User.find(params[:id])
 
-    render json: @user
+    if @user
+      render json: @user
+    else
+      render nothing: true, status: :not_found
+    end
   end
 
   def create

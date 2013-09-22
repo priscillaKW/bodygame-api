@@ -1,0 +1,40 @@
+development:
+  sessions:
+    default:
+      database: bodygame_api_development
+      hosts:
+        - localhost:27017
+      options:
+        skip_version_check: true
+        safe:               true
+  options:
+    preload_models:        true
+    raise_not_found_error: false
+
+test:
+  sessions:
+    default:
+      database: bodygame_api_test
+      hosts:
+        - localhost:27017
+      options:
+        consistency:        :strong
+        max_retries:        1
+        retry_interval:     0
+        skip_version_check: true
+        safe:               true
+  options:
+    preload_models:        true
+    raise_not_found_error: false
+
+production:
+  sessions:
+    default:
+      uri: <%= ENV['MONGOHQ_URL'] %>
+      options:
+        skip_version_check: true
+        safe:               true
+  options:
+    preload_models:        true
+    raise_not_found_error: false
+
