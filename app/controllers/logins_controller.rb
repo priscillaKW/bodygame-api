@@ -1,5 +1,5 @@
 class LoginsController < ApplicationController
-  def login
+  def create
     @login = Login.find_by_username(params[:login][:username])
 
     if @login

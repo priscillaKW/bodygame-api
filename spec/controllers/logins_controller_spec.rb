@@ -1,8 +1,8 @@
 require 'spec_helper'
 
 describe LoginsController do
-  describe "POST login" do
-    subject { post :login, { login: payload } }
+  describe "POST create" do
+    subject { post :create, { login: payload } }
 
     context "a valid login" do
       let(:user)    { create(:user) }
