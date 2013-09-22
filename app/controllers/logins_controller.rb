@@ -4,7 +4,7 @@ class LoginsController < ApplicationController
 
     if @login
       if @login.verify_password(params[:login][:password])
-        render nothing: true
+        render json: @login.user
       else
         unauthorized({ password: "doesn't match" })
       end

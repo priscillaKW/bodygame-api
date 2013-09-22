@@ -1,20 +1,21 @@
 class Login
-  def initialize(username, password)
-    @username = username
-    @password = password
+  attr_reader :user
+
+  def initialize(user)
+    @user = user
   end
 
   def self.find_by_username(username)
     user = User.find_by_username(username)
 
     if user
-      Login.new(user.username, user.password)
+      Login.new(user)
     else
       nil
     end
   end
 
   def verify_password(password)
-    @password == password
+    @user.password == password
   end
 end
