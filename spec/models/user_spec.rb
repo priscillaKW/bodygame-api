@@ -1,6 +1,23 @@
 require 'spec_helper'
 
 describe User do
+  describe ".find_by_username" do
+    subject { User.find_by_username(username) }
+
+    context "when user exists" do
+      let(:user)     { create(:user) }
+      let(:username) { user.username }
+
+      it { should eq user }
+    end
+
+    context "when user doesn't exist" do
+      let(:username) { "not_found" }
+
+      it { should be_nil }
+    end
+  end
+
   describe "#valid?" do
     subject { user.valid? }
 
