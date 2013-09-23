@@ -4,7 +4,7 @@ describe "Users" do
   describe "GET /users/:id" do
     subject { get("/users/#{id}"); response }
 
-    context "when user exist" do
+    context "when user exists" do
       let(:user) { create(:user) }
       let(:id)   { user.id }
 
@@ -16,6 +16,7 @@ describe "Users" do
       let(:id) { 1212 }
 
       its(:status) { should eq 404 }
+      its(:body)   { should be_blank }
     end
   end
 

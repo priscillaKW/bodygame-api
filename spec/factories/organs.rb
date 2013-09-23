@@ -1,5 +1,5 @@
 FactoryGirl.define do
-  factory :organ do
+  factory :organ, class: Organ do
     name            "coracao"
     image_file_name "coracao.obj"
   end
