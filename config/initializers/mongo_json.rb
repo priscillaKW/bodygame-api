@@ -14,6 +14,10 @@ module Mongoid
       super(options).tap do |attrs|
         attrs.delete("_id")
         attrs["id"] = self.persisted? ? self.id : nil
+
+        if self.respond_to?("_type")
+          attrs["type"] = self._type
+        end
       end
     end
   end

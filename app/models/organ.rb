@@ -6,7 +6,7 @@ class Organ
   field :image_file_name, type: String
 
   has_many :studies, autosave: true
-  has_many :games
+  has_many :games,   autosave: true
 
   validates :name, presence: true
 end

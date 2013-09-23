@@ -1,0 +1,25 @@
+organs:
+  - name: "Coração"
+    image_file_name: "coracao.obj"
+    studies:
+      - content: "blabla"
+        content_url: "hahaha"
+      - content: "bleble"
+        content_url: "hehehe"
+    hangman_games:
+      - tip: "alguma coisa"
+        answer: "aaaaaaa"
+    quiz_games:
+      - question: "something"
+        option_a: "blabla"
+        option_b: "bleble"
+        option_c: "blublu"
+        option_d: "blobloblo"
+        answer:   "a"
+    word_searches_games:
+      - words: ["bla", "ble"]
+    association_games:
+      - tip_answers:
+        - tip: "aaa"
+          answer: "blaa"
+
