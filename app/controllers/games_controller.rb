@@ -1,7 +1,12 @@
 class GamesController < ApplicationController
   def index
     if organ = Organ.find(params[:organ_id])
-      @games = organ.games.entries
+
+      if params[:type]
+        @games = organ.games.where(_type: params[:type]).entries
+      else
+        @games = organ.games.entries
+      end
 
       render json: @games
     else
