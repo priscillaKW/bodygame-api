@@ -1,14 +1,18 @@
 organs:
-  - name: "Coração"
+  - name:            "Coração"
     image_file_name: "coracao.obj"
     studies:
-      - content: "blabla"
+      - content:     "blabla"
         content_url: "hahaha"
-      - content: "bleble"
+      - content:     "bleble"
         content_url: "hehehe"
     hangman_games:
-      - tip: "alguma coisa"
+      - tip:    "alguma coisa"
         answer: "aaaaaaa"
+        score:  100
+      - tip:    "alguma outra coisa"
+        answer: "bbbbbbbb"
+        score:  100
     quiz_games:
       - question: "something"
         option_a: "blabla"
@@ -16,10 +20,76 @@ organs:
         option_c: "blublu"
         option_d: "blobloblo"
         answer:   "a"
+        score:    100
+      - question: "something 2"
+        option_a: "blabla 2"
+        option_b: "bleble 2"
+        option_c: "blublu 2"
+        option_d: "blobloblo 2"
+        answer:   "b"
+        score:    100
     word_searches_games:
       - words: ["bla", "ble"]
+        score: 100
+      - words: ["hehe", "haha"]
+        score: 100
     association_games:
       - tip_answers:
-        - tip: "aaa"
+        - tip:    "aaa"
           answer: "blaa"
-
+        - tip:    "bbbbb"
+          answer: "ccccccc"
+        score: 100
+      - tip_answers:
+        - tip:    "hahaha"
+          answer: "hehehe"
+        - tip:    "bcisdbdbv"
+          answer: "jiegniergni"
+        score: 100
+  - name:            "Outro Organ"
+    image_file_name: "outracoisa.obj"
+    studies:
+      - content:     "blabla"
+        content_url: "hahaha"
+      - content:     "bleble"
+        content_url: "hehehe"
+    hangman_games:
+      - tip:    "alguma coisa"
+        answer: "aaaaaaa"
+        score:  100
+      - tip:    "alguma outra coisa"
+        answer: "bbbbbbbb"
+        score:  100
+    quiz_games:
+      - question: "something"
+        option_a: "blabla"
+        option_b: "bleble"
+        option_c: "blublu"
+        option_d: "blobloblo"
+        answer:   "a"
+        score:    100
+      - question: "something 2"
+        option_a: "blabla 2"
+        option_b: "bleble 2"
+        option_c: "blublu 2"
+        option_d: "blobloblo 2"
+        answer:   "b"
+        score:    100
+    word_searches_games:
+      - words: ["bla", "ble"]
+        score: 100
+      - words: ["hehe", "haha"]
+        score: 100
+    association_games:
+      - tip_answers:
+        - tip:    "aaa"
+          answer: "blaa"
+        - tip:    "bbbbb"
+          answer: "ccccccc"
+        score: 100
+      - tip_answers:
+        - tip:    "hahaha"
+          answer: "hehehe"
+        - tip:    "bcisdbdbv"
+          answer: "jiegniergni"
+        score: 100
