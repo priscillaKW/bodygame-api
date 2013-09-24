@@ -2,94 +2,115 @@ organs:
   - name:            "Coração"
     image_file_name: "coracao.obj"
     studies:
-      - content:     "blabla"
-        content_url: "hahaha"
-      - content:     "bleble"
-        content_url: "hehehe"
+      - content: "O coração é um órgão muscular oco, envolto por um saco cheio de líquido chamado pericárdio, localizado no interior da cavidade torácica. Sua função é bombear o sangue oxigenado (arterial) proveniente dos pulmões para todo o corpo e direcionar o sangue desoxigenado (venoso), que retornou ao coração, até os pulmões, onde deve ser enriquecido com oxigênio novamente.
+        O coração humano tem uma massa entre 250 e 350 gramas e tem aproximadamente o tamanho de um punho. Está localizado na parte anterior à coluna vertebral e posterior ao esterno.
+        Em uma pessoa saudável, o coração bate em média 70 a 80 vezes por minuto. Mas, esse número pode ser elevado para até 150 em situações de pânico ou susto. O coração bombeia em média 74 mil litros de sangue por dia – o suficiente para, ao longo de uma vida inteira, encher 100 piscinas. A pressão exercida pelo órgão também é tão forte que o sangue poderia ser jorrado a 10 metros de altura."
+      - content: "O coração é dividido em quatro câmaras. As câmaras superiores são chamadas de átrios (esquerdo ou direito), e as inferiores são conhecidas como ventrículos (esquerdo ou direito).
+        O coração tem válvulas que se encontram na saída de cada ventrículo: a válvula aórtica, ligando o órgão à aorta (principal artéria do sistema circulatório), e a válvula do tronco pulmonar, permitindo o fluxo de sangue até os pulmões.
+        As portas de entrada do sangue no coração são conhecidas como veia cava superior, responsável pelo fluxo proveniente da cabeça e membros superiores, e veia cava inferior, que traz o sangue do abdômen e dos membros inferiores."
+      - content: "As válvulas do corpo permitem que o sangue flua apenas em uma direção. Isso dá suporte aos dois ciclos observados na circulação humana: o de sangue arterial, que foi oxigenado pelos pulmões e será distribuído pelo corpo quando o coração bombeia, e o sangue venoso, que retorna ao coração desoxigenado e rico em gás carbônico.
+        O sangue desoxigenado entra no coração pela veia cava superior e veia cava inferior, desaguando no átrio direito. Os músculos dessa câmara se relaxam e o espaço é preenchido com o sangue venoso, sendo então encaminhado controladamente por um orifício ao ventrículo direito. Funcionando como uma bomba, o ventrículo direito impulsiona o sangue aos pulmões.
+        Uma vez restaurado e novamente rico em oxigênio, o sangue retorna ao lado esquerdo do coração pelas veias pulmonares. Primeiramente chega ao átrio esquerdo, seguindo por um orifício ao ventrículo esquerdo. Sendo a mais potente câmara do coração, ele gera fortes contrações para bombear o sangue para todo o corpo pela porta de saída: a artéria aorta.
+        Embora seja um dos grandes responsáveis pela distribuição do oxigênio ao corpo, o coração também precisa receber oxigênio para que funcione corretamente. Dessa maneira, sua musculatura é nutrida por uma rede de artérias – as artérias coronárias – que se originam na aorta.
+        Para bombear sangue adequadamente, o órgão depende de sinais elétricos enviados pelo nodo sinoatrial (o “marca-passo natural”) às células do coração. Como resposta, essas células produzem as contrações necessárias para impulsionar o sangue a todos os tecidos do corpo."
     hangman_games:
-      - tip:    "alguma coisa"
-        answer: "aaaaaaa"
-        score:  100
-      - tip:    "alguma outra coisa"
-        answer: "bbbbbbbb"
-        score:  100
+      - tip:    "Órgão muscular Oco"
+        answer: "Coração"
+        score:  10
+      - tip:    "Sangue Oxigenado"
+        answer: "Arterial"
+        score:  10
+      - tip:    "Sangue Desoxigenado"
+        answer: "Venoso"
+        score:  10
+      - tip:    "O que o coração bombeia"
+        answer: "Sangue"
+        score:  10
+      - tip:    "Câmaras superiores"
+        answer: "Átrios"
+        score:  10
+      - tip:    "Câmaras inferiores"
+        answer: "Ventrículos"
+        score:  10
+      - tip:    "O que se encontra na saída de cada ventrículo"
+        answer: "Valvulas"
+        score:  10
+      - tip:    "Local por onde o sangue desoxigenado entra no coração"
+        answer: "Veia cava"
+        score:  10
+      - tip:    "Principal artéria do sistema circulatório"
+        answer: "Aorta"
+        score:  10
+      - tip:    "Rede de artérias que se originam na aorta"
+        answer: "Artérias Coronárias"
+        score:  10
     quiz_games:
-      - question: "something"
-        option_a: "blabla"
-        option_b: "bleble"
-        option_c: "blublu"
-        option_d: "blobloblo"
+      - question: "O que é o pericárdio?"
+        option_a: "Órgão muscular oco"
+        option_b: "Principal artéria do corpo"
+        option_c: "Um saco cheio de liquido que envolve o coração"
+        option_d: "Uma válvula na saída da artéria"
+        answer:   "c"
+        score:    10
+      - question: "Qual tamanho aproximado do coração humano?"
+        option_a: "Tamanho da palma da mão"
+        option_b: "De um punho"
+        option_c: "70 a 80 cm"
+        option_d: "Tem formato arredondado, com coloração amarelado tendendo ao verde"
         answer:   "a"
-        score:    100
-      - question: "something 2"
-        option_a: "blabla 2"
-        option_b: "bleble 2"
-        option_c: "blublu 2"
-        option_d: "blobloblo 2"
+        score:    10
+      - question: "Em quantas câmaras é dividido o coração e quais são?"
+        option_a: "Quatro, válvula aórtica superior e inferior e válvula pulmonar inferior e superior"
+        option_b: "Quatro, átrio esquerdo e direito e ventrículo esquerdo e direito"
+        option_c: "Duas, Veia cava superior e veia cava inferior"
+        option_d: "Duas, átrio e ventrículo"
         answer:   "b"
-        score:    100
+        score:    10
+      - question: "Onde se encontram e quais são as válvulas do coração?"
+        option_a: "Quatro, válvula aórtica superior e inferior e válvula pulmonar inferior e superior"
+        option_b: "Se encontram na saída de cada ventrículo: a superior esquerda, e a inferior direita"
+        option_c: "Se encontram na saída de cada átrio: a válvula aórtica e a válvula do tronco pulmonar"
+        option_d: "Se encontram na saída de cada ventrículo: a válvula aórtica e a válvula do tronco pulmonar"
+        answer:   "d"
+        score:    10
+      - question: "Como o sangue venoso entra no coração e chega aos pulmões?"
+        option_a: "O sangue oxigenado entra no coração pela aorta, desaguando no átrio esquerdo, que impulsiona o sangue aos pulmões"
+        option_b: "O sangue desoxigenado entra no coração pelas veias cava superior e cava inferior, chegando ao átrio direito; depois é enviado ao ventrículo direito que o impulsiona aos pulmões"
+        option_c: "O sangue desoxigenado entra no coração pela aorta, desaguando no ventrículo direito, que impulsiona o sangue aos pulmões"
+        option_d: "O sangue oxigenado entra no coração pela veia cava superior e veia cava inferior, chegando ao átrio direito. Os pulmões puxam o sangue para si"
+        answer:   "b"
+        score:    10
+      - question: "Como o sangue retorna ao coração, depois de restaurado e rico em oxigênio para ser enviado ao resto do corpo?"
+        option_a: "Através da artéria aorta chega ao átrio  direito, seguindo para o ventrículo direito que bombeia o sangue para todo o corpo pela veia pulmonar"
+        option_b: "O sangue desoxigenado entra no coração pela veia cava superior e veia cava inferior, desaguando no átrio direito"
+        option_c: "Através das veias pulmonares chega ao átrio esquerdo, seguindo ao ventrículo esquerdo que bombeia o sangue para todo o corpo pela artéria aorta"
+        option_d: "Através das veias pulmonares chega ao átrio esquerdo, que bombeia o sangue para todo o corpo pelas artérias coronárias. O coração  não precisa receber oxigênio"
+        answer:   "c"
+        score:    10
+      - question: "Como o coração recebe oxigênio?"
+        option_a: "Sua musculatura é nutrida por uma rede de artérias – as artérias coronárias – que se originam na aorta"
+        option_b: "Sua musculatura é nutrida por uma artéria – a artérias pulmonar – que se originam das veias cavas"
+        option_c: "Sua musculatura é nutrida pelo nodo sinoatrial que se origina na aorta"
+        option_d: "Sua musculatura é nutrida por uma rede de veias – as veias pulmonares – que se originam na aorta"
+        answer:   "a"
+        score:    10
     word_searches_games:
-      - words: ["bla", "ble"]
-        score: 100
-      - words: ["hehe", "haha"]
-        score: 100
+      - words: ["Venoso", "Pericárdio", "Arterial", "Coração", "Sangue", "Batimento"]
+        score: 10
+      - words: ["Câmaras", "Ventrículos", "Átrios"]
+        score: 10
+      - words: ["Veia-cava", "Aorta", "Coronárias", "Nodo Sinoatrial"]
+        score: 10
     association_games:
       - tip_answers:
-        - tip:    "aaa"
-          answer: "blaa"
-        - tip:    "bbbbb"
-          answer: "ccccccc"
-        score: 100
+        - tip:    "Órgão muscular Oco"
+          answer: "Coração"
+        - tip:    "Sangue Oxigenado"
+          answer: "Arterial"
+        score: 10
       - tip_answers:
-        - tip:    "hahaha"
-          answer: "hehehe"
-        - tip:    "bcisdbdbv"
-          answer: "jiegniergni"
-        score: 100
-  - name:            "Outro Organ"
-    image_file_name: "outracoisa.obj"
-    studies:
-      - content:     "blabla"
-        content_url: "hahaha"
-      - content:     "bleble"
-        content_url: "hehehe"
-    hangman_games:
-      - tip:    "alguma coisa"
-        answer: "aaaaaaa"
-        score:  100
-      - tip:    "alguma outra coisa"
-        answer: "bbbbbbbb"
-        score:  100
-    quiz_games:
-      - question: "something"
-        option_a: "blabla"
-        option_b: "bleble"
-        option_c: "blublu"
-        option_d: "blobloblo"
-        answer:   "a"
-        score:    100
-      - question: "something 2"
-        option_a: "blabla 2"
-        option_b: "bleble 2"
-        option_c: "blublu 2"
-        option_d: "blobloblo 2"
-        answer:   "b"
-        score:    100
-    word_searches_games:
-      - words: ["bla", "ble"]
-        score: 100
-      - words: ["hehe", "haha"]
-        score: 100
-    association_games:
-      - tip_answers:
-        - tip:    "aaa"
-          answer: "blaa"
-        - tip:    "bbbbb"
-          answer: "ccccccc"
-        score: 100
-      - tip_answers:
-        - tip:    "hahaha"
-          answer: "hehehe"
-        - tip:    "bcisdbdbv"
-          answer: "jiegniergni"
-        score: 100
+        - tip:    "Sangue Desoxigenado"
+          answer: "Venoso"
+        - tip:    "O que o coração bombeia"
+          answer: "Sangue"
+        score: 10
