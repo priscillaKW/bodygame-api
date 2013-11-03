@@ -1,6 +1,10 @@
 class GameScoresController < ApplicationController
   def create
-    @score = GameScore.new(params[:game_score].merge(user_id: params[:user_id]))
+    @score = GameScore.find_or_initialize_by(user_id: params[:user_id],
+                                             organ_id: params[:game_score][:organ_id],
+                                             game_type: params[:game_score][:game_type])
+
+    @score.score = params[:game_score][:score]
 
     if @score.save
       render json: @score, status: :created, location: @score
