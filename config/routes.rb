@@ -13,6 +13,7 @@ BodygameApi::Application.routes.draw do
   get 'games/:id'              => 'games#show',  as: 'game'
   get 'organs/:organ_id/games' => 'games#index', as: 'games'
 
-  get  'users/:user_id/completed_games' => 'completed_games#index', as: 'completed_games'
-  post 'users/:user_id/completed_games' => 'completed_games#create'
+  get 'game_scores/:id'             => 'game_scores#show',  as: 'game_score'
+  get  'users/:user_id/game_scores' => 'game_scores#index', as: 'game_scores'
+  post 'users/:user_id/game_scores' => 'game_scores#create'
 end

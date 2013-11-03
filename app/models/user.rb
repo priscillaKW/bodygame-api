@@ -5,7 +5,7 @@ class User
   field :username, type: String
   field :password, type: String
 
-  has_many :completed_games
+  has_many :game_scores
 
   validates :username, presence: true, uniqueness: true
   validates :password, presence: true
