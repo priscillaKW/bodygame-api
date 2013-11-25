@@ -39,6 +39,12 @@ describe Organ do
 
         it { should be_false }
       end
+
+      context "because stage is nil" do
+        let(:organ) { build(:organ, stage: nil) }
+
+        it { should be_false }
+      end
     end
   end
 end

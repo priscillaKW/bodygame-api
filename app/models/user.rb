@@ -7,6 +7,8 @@ class User
 
   has_many :game_scores
 
+  embeds_one :character
+
   validates :username, presence: true, uniqueness: true
   validates :password, presence: true
 

@@ -1,6 +1,7 @@
 organs:
   - name:            "Coração"
     image_file_name: "coracao.obj"
+    stage: 0
     studies:
       - content: "O coração é um órgão muscular oco, envolto por um saco cheio de líquido chamado pericárdio, localizado no interior da cavidade torácica. Sua função é bombear o sangue oxigenado (arterial) proveniente dos pulmões para todo o corpo e direcionar o sangue desoxigenado (venoso), que retornou ao coração, até os pulmões, onde deve ser enriquecido com oxigênio novamente.
         O coração humano tem uma massa entre 250 e 350 gramas e tem aproximadamente o tamanho de um punho. Está localizado na parte anterior à coluna vertebral e posterior ao esterno.
@@ -126,21 +127,27 @@ organs:
         - tip:    "Tip C1"
           answer: "Answer C1"
         score: 10
-  - name: "Orelha"
-    image_file_name: "ear.obj"
-  - name: "Cérebro"
-    image_file_name: "brain.obj"
-  - name: "Braço"
-    image_file_name: "arm.obj"
-  - name: "Olho"
-    image_file_name: "eyes.obj"
-  - name: "Pé"
-    image_file_name: "foot.obj"
   - name: "Pulmão"
     image_file_name: "lung.obj"
+    stage: 1
+  - name: "Fígado"
+    image_file_name: "liver.obj"
+    stage: 2
+  - name: "Rim"
+    image_file_name: "kidney.obj"
+    stage: 3
   - name: "Faringe"
     image_file_name: "pharynx.obj"
+    stage: 4
+  - name: "Cérebro"
+    image_file_name: "brain.obj"
+    stage: 5
+  - name: "Crânio"
+    image_file_name: "skull.obj"
+    stage: 6
   - name: "Dente"
     image_file_name: "teeth.obj"
-  - name: "Esqueleto"
-    image_file_name: "skull.obj"
+    stage: 7
+  - name: "Olho"
+    image_file_name: "eyes.obj"
+    stage: 8

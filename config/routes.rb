@@ -4,6 +4,9 @@ BodygameApi::Application.routes.draw do
   post 'users'     => 'users#create'
   get  'users/:id' => 'users#show',   as: 'user'
 
+  post 'users/:user_id/character' => 'characters#create'
+  put  'users/:user_id/character' => 'characters#update'
+
   get 'organs'     => 'organs#index', as: 'organs'
   get 'organs/:id' => 'organs#show',  as: 'organ'
 
