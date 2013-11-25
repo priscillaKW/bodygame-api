@@ -3,7 +3,9 @@ class CharactersController < ApplicationController
     @user = User.find(params[:user_id])
 
     if @user
-      @character = Character.new(kind: params[:character][:kind])
+      @character = @user.character || Character.new
+
+      @character.kind = params[:character][:kind]
 
       if @character.valid?
         @user.character = @character
