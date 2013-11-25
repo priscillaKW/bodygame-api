@@ -96,11 +96,27 @@ organs:
         answer:   "a"
         score:    10
     word_searches_games:
-      - words: ["Venoso", "Pericárdio", "Arterial", "Coração", "Sangue", "Batimento"]
-        score: 10
-      - words: ["Câmaras", "Ventrículos", "Átrios"]
-        score: 10
-      - words: ["Veia-cava", "Aorta", "Coronárias", "Nodo Sinoatrial"]
+      - words:
+        - tip:    "Sangue Desoxigenado"
+          answer: "Venoso"
+        - tip:    "O que o coração bombeia"
+          answer: "Sangue"
+        - tip:    "Sistema do qual os pulmões fazem parte"
+          answer: "Respiratório"
+        - tip:    "Quantidade de pulmões no ser humano"
+          answer: "Dois"
+        - tip:    "Órgão que realiza trocas gasosas entre o sangue e o ambiente"
+          answer: "Pulmão"
+        - tip:    "Onde ocorrem as trocas gasosas"
+          answer: "Alvéolos pulmonares"
+        - tip:    "Processo de entrada de ar"
+          answer: "Inspiração"
+        - tip:    "Processo de saída do ar"
+          answer: "Expiração"
+        - tip:    "Formato dos pulmões"
+          answer: "Triangular"
+        - tip:    "O pulmão é formado por:"
+          answer: "Brônquios"
         score: 10
     association_games:
       - tip_answers:
