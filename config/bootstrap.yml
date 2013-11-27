@@ -126,29 +126,28 @@ organs:
           answer: "Nodo sinoatrial"
         score: 10
     association_games:
-      - tip_answers:
         - tip:    "Órgão muscular Oco"
           answer: "Coração"
         - tip:    "Sangue Oxigenado"
           answer: "Arterial"
-        - tip:    "Tip A"
-          answer: "Answer A"
-        - tip:    "Tip B"
-          answer: "Answer B"
-        - tip:    "Tip C"
-          answer: "Answer C"
-        score: 10
-      - tip_answers:
         - tip:    "Sangue Desoxigenado"
           answer: "Venoso"
         - tip:    "O que o coração bombeia"
           answer: "Sangue"
-        - tip:    "Tip A1"
-          answer: "Answer A1"
-        - tip:    "Tip B1"
-          answer: "Answer B1"
-        - tip:    "Tip C1"
-          answer: "Answer C1"
+        - tip:    "Câmaras superiores"
+          answer: "Átrios"
+        score: 10
+      - tip_answers:
+        - tip:    "Câmaras inferiores"
+          answer: "Ventrículos"
+        - tip:    "O que se encontra na saída de cada ventrículo"
+          answer: "Valvulas"
+        - tip:    "Local por onde o sangue desoxigenado entra no coração"
+          answer: "Veia cava"
+        - tip:    "Principal artéria do sistema circulatório"
+          answer: "Aorta"
+        - tip:    "Rede de artérias que se originam na aorta"
+          answer: "Artérias coronárias"
         score: 10
   - name: "Pulmão"
     image_file_name: "lung.obj"
