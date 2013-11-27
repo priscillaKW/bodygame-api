@@ -3,17 +3,17 @@ organs:
     image_file_name: "coracao.obj"
     stage: 0
     studies:
-      - content: "O coração é um órgão muscular oco, envolto por um saco cheio de líquido chamado pericárdio, localizado no interior da cavidade torácica. Sua função é bombear o sangue oxigenado (arterial) proveniente dos pulmões para todo o corpo e direcionar o sangue desoxigenado (venoso), que retornou ao coração, até os pulmões, onde deve ser enriquecido com oxigênio novamente.
-        O coração humano tem uma massa entre 250 e 350 gramas e tem aproximadamente o tamanho de um punho. Está localizado na parte anterior à coluna vertebral e posterior ao esterno.
-        Em uma pessoa saudável, o coração bate em média 70 a 80 vezes por minuto. Mas, esse número pode ser elevado para até 150 em situações de pânico ou susto. O coração bombeia em média 74 mil litros de sangue por dia – o suficiente para, ao longo de uma vida inteira, encher 100 piscinas. A pressão exercida pelo órgão também é tão forte que o sangue poderia ser jorrado a 10 metros de altura."
-      - content: "O coração é dividido em quatro câmaras. As câmaras superiores são chamadas de átrios (esquerdo ou direito), e as inferiores são conhecidas como ventrículos (esquerdo ou direito).
-        O coração tem válvulas que se encontram na saída de cada ventrículo: a válvula aórtica, ligando o órgão à aorta (principal artéria do sistema circulatório), e a válvula do tronco pulmonar, permitindo o fluxo de sangue até os pulmões.
-        As portas de entrada do sangue no coração são conhecidas como veia cava superior, responsável pelo fluxo proveniente da cabeça e membros superiores, e veia cava inferior, que traz o sangue do abdômen e dos membros inferiores."
-      - content: "As válvulas do corpo permitem que o sangue flua apenas em uma direção. Isso dá suporte aos dois ciclos observados na circulação humana: o de sangue arterial, que foi oxigenado pelos pulmões e será distribuído pelo corpo quando o coração bombeia, e o sangue venoso, que retorna ao coração desoxigenado e rico em gás carbônico.
-        O sangue desoxigenado entra no coração pela veia cava superior e veia cava inferior, desaguando no átrio direito. Os músculos dessa câmara se relaxam e o espaço é preenchido com o sangue venoso, sendo então encaminhado controladamente por um orifício ao ventrículo direito. Funcionando como uma bomba, o ventrículo direito impulsiona o sangue aos pulmões.
-        Uma vez restaurado e novamente rico em oxigênio, o sangue retorna ao lado esquerdo do coração pelas veias pulmonares. Primeiramente chega ao átrio esquerdo, seguindo por um orifício ao ventrículo esquerdo. Sendo a mais potente câmara do coração, ele gera fortes contrações para bombear o sangue para todo o corpo pela porta de saída: a artéria aorta.
-        Embora seja um dos grandes responsáveis pela distribuição do oxigênio ao corpo, o coração também precisa receber oxigênio para que funcione corretamente. Dessa maneira, sua musculatura é nutrida por uma rede de artérias – as artérias coronárias – que se originam na aorta.
-        Para bombear sangue adequadamente, o órgão depende de sinais elétricos enviados pelo nodo sinoatrial (o “marca-passo natural”) às células do coração. Como resposta, essas células produzem as contrações necessárias para impulsionar o sangue a todos os tecidos do corpo."
+      - content: "O coração é um órgão muscular oco, envolto por um saco cheio de líquido chamado pericárdio, localizado no interior da cavidade torácica. Sua função é bombear o sangue oxigenado (arterial) proveniente dos pulmões para todo o corpo e direcionar o sangue desoxigenado (venoso), que retornou ao coração, até os pulmões, onde deve ser enriquecido com oxigênio novamente."
+      - content: "O coração humano tem uma massa entre 250 e 350 gramas e tem aproximadamente o tamanho de um punho. Está localizado na parte anterior à coluna vertebral e posterior ao esterno."
+      - content: "Em uma pessoa saudável, o coração bate em média 70 a 80 vezes por minuto. Mas, esse número pode ser elevado para até 150 em situações de pânico ou susto. O coração bombeia em média 74 mil litros de sangue por dia – o suficiente para, ao longo de uma vida inteira, encher 100 piscinas. A pressão exercida pelo órgão também é tão forte que o sangue poderia ser jorrado a 10 metros de altura."
+      - content: "O coração é dividido em quatro câmaras. As câmaras superiores são chamadas de átrios (esquerdo ou direito), e as inferiores são conhecidas como ventrículos (esquerdo ou direito)."
+      - content: "O coração tem válvulas que se encontram na saída de cada ventrículo: a válvula aórtica, ligando o órgão à aorta (principal artéria do sistema circulatório), e a válvula do tronco pulmonar, permitindo o fluxo de sangue até os pulmões."
+      - content: "As portas de entrada do sangue no coração são conhecidas como veia cava superior, responsável pelo fluxo proveniente da cabeça e membros superiores, e veia cava inferior, que traz o sangue do abdômen e dos membros inferiores."
+      - content: "As válvulas do corpo permitem que o sangue flua apenas em uma direção. Isso dá suporte aos dois ciclos observados na circulação humana: o de sangue arterial, que foi oxigenado pelos pulmões e será distribuído pelo corpo quando o coração bombeia, e o sangue venoso, que retorna ao coração desoxigenado e rico em gás carbônico."
+      - content: "O sangue desoxigenado entra no coração pela veia cava superior e veia cava inferior, desaguando no átrio direito. Os músculos dessa câmara se relaxam e o espaço é preenchido com o sangue venoso, sendo então encaminhado controladamente por um orifício ao ventrículo direito. Funcionando como uma bomba, o ventrículo direito impulsiona o sangue aos pulmões."
+      - content: "Uma vez restaurado e novamente rico em oxigênio, o sangue retorna ao lado esquerdo do coração pelas veias pulmonares. Primeiramente chega ao átrio esquerdo, seguindo por um orifício ao ventrículo esquerdo. Sendo a mais potente câmara do coração, ele gera fortes contrações para bombear o sangue para todo o corpo pela porta de saída: a artéria aorta."
+      - content: "Embora seja um dos grandes responsáveis pela distribuição do oxigênio ao corpo, o coração também precisa receber oxigênio para que funcione corretamente. Dessa maneira, sua musculatura é nutrida por uma rede de artérias – as artérias coronárias – que se originam na aorta."
+      - content: "Para bombear sangue adequadamente, o órgão depende de sinais elétricos enviados pelo nodo sinoatrial (o “marca-passo natural”) às células do coração. Como resposta, essas células produzem as contrações necessárias para impulsionar o sangue a todos os tecidos do corpo."
     hangman_games:
       - tip:    "Órgão muscular Oco"
         answer: "Coração"
@@ -45,6 +45,9 @@ organs:
       - tip:    "Rede de artérias que se originam na aorta"
         answer: "Artérias Coronárias"
         score:  10
+      - tip:    "Marca-Passo natura"
+        answer: "Nodo sinoatrial"
+        score:  10
     quiz_games:
       - question: "O que é o pericárdio?"
         option_a: "Órgão muscular oco"
@@ -58,7 +61,7 @@ organs:
         option_b: "De um punho"
         option_c: "70 a 80 cm"
         option_d: "Tem formato arredondado, com coloração amarelado tendendo ao verde"
-        answer:   "a"
+        answer:   "b"
         score:    10
       - question: "Em quantas câmaras é dividido o coração e quais são?"
         option_a: "Quatro, válvula aórtica superior e inferior e válvula pulmonar inferior e superior"
@@ -97,26 +100,30 @@ organs:
         score:    10
     word_searches_games:
       - words:
+        - tip:    "Órgão muscular Oco"
+          answer: "Coração"
+        - tip:    "Sangue Oxigenado"
+          answer: "Arterial"
         - tip:    "Sangue Desoxigenado"
           answer: "Venoso"
         - tip:    "O que o coração bombeia"
           answer: "Sangue"
-        - tip:    "Sistema do qual os pulmões fazem parte"
-          answer: "Respiratório"
-        - tip:    "Quantidade de pulmões no ser humano"
-          answer: "Dois"
-        - tip:    "Órgão que realiza trocas gasosas entre o sangue e o ambiente"
-          answer: "Pulmão"
-        - tip:    "Onde ocorrem as trocas gasosas"
-          answer: "Alvéolos pulmonares"
-        - tip:    "Processo de entrada de ar"
-          answer: "Inspiração"
-        - tip:    "Processo de saída do ar"
-          answer: "Expiração"
-        - tip:    "Formato dos pulmões"
-          answer: "Triangular"
-        - tip:    "O pulmão é formado por:"
-          answer: "Brônquios"
+        - tip:    "Câmaras superiores"
+          answer: "Átrios"
+        - tip:    "Câmaras inferiores"
+          answer: "Ventrículos"
+        score: 10
+      - words:
+        - tip:    "O que se encontra na saída de cada ventrículo"
+          answer: "Valvulas"
+        - tip:    "Local por onde o sangue desoxigenado entra no coração"
+          answer: "Veia cava"
+        - tip:    "Principal artéria do sistema circulatório"
+          answer: "Aorta"
+        - tip:    "Rede de artérias que se originam na aorta"
+          answer: "Artérias coronárias"
+        - tip:    "Marca-Passo natural"
+          answer: "Nodo sinoatrial"
         score: 10
     association_games:
       - tip_answers:
@@ -146,24 +153,1021 @@ organs:
   - name: "Pulmão"
     image_file_name: "lung.obj"
     stage: 1
+    studies:
+      - content: "Os pulmões são órgãos que fazem parte do sistema respiratório dos seres humanos. Cada ser humano possui um par de pulmões."
+      - content: "As trocas gasosas entre o sangue e o ambiente são realizadas pelos pulmões. Essas trocas gasosas ocorrem nos alvéolos pulmonares. Neste processo ocorre a entrada de oxigênio na hemoglobina do sangue e a consequente formação da oxiemoglobina. Por outro lado, ocorre a liberação do gás carbônico (dióxido de carbono)."
+      - content: "Vale lembra que o ar entre e sai dos pulmões graças ao relaxamento do diafragma, através do processo de inspiração (entrada do ar) e expiração (saída do ar)."
+      - content: "Os pulmões possuem um formato triangular e são de consistência esponjosa. São formados por brônquios que se dividem em bronquíolos e alvéolos pulmonares."
+      - content: "Cada pulmão de um indivíduo adulto possui entre 23 e 27 centímetros de comprimento."
+      - content: "Os pulmões são divididos em segmentos (lobos). O pulmão direito possui três lobos, enquanto o esquerdo apenas dois."
+      - content: "Os pulmões humanos são envolvidos pela pleura, uma membrana dupla e fina."
+      - content: "As bases dos pulmões ficam apoiadas no diafragma."
+      - content: "As principais doenças que podem atingir os pulmões são: bronquite, enfisema pulmonar, câncer de pulmão, pneumonia, tuberculose, pneumonite e asma."
+    hangman_games:
+      - tip:    "Sistema do qual os pulmões fazem parte"
+        answer: "Respiratório"
+        score:  10
+      - tip:    "Quantidade de pulmões no ser humano"
+        answer: "Dois"
+        score:  10
+      - tip:    "Órgão que realiza trocas gasosas entre o sangue e o ambiente"
+        answer: "Pulmão"
+        score:  10
+      - tip:    "Onde ocorrem as trocas gasosas"
+        answer: "Alvéolos pulmonares"
+        score:  10
+      - tip:    "Processo de entrada de ar"
+        answer: "Inspiração"
+        score:  10
+      - tip:    "Processo de saída do ar"
+        answer: "Expiração"
+        score:  10
+      - tip:    "Formato dos pulmões"
+        answer: "Triangular"
+        score:  10
+      - tip:    "O pulmão é formado por:"
+        answer: "Brônquios"
+        score:  10
+      - tip:    "Os brônquios são formados por:"
+        answer: "Bronquíolos"
+        score:  10
+      - tip:    "Segmentos em que o pulmão é dividido"
+        answer: "Lobos"
+        score:  10
+      - tip:    "Membrana que envolve o pulmão"
+        answer: "Pleura"
+        score:  10
+      - tip:    "Onde o pulmão fica apoiado"
+        answer: "Diafragma"
+        score:  10
+      - tip:    "Doença que atinge os pulmões"
+        answer: "Bronquite"
+        score:  10
+      - tip:    "Doença que atinge os pulmões"
+        answer: "Pneumonia"
+        score:  10
+      - tip:    "Doença que atinge os pulmões"
+        answer: "Tuberculose"
+        score:  10
+      - tip:    "Doença que atinge os pulmões"
+        answer: "Asma"
+        score:  10
+    quiz_games:
+      - question: "O pulmão faz parte de qual sistema?"
+        option_a: "Sistema Circulatório"
+        option_b: "Sistema Respiratório"
+        option_c: "Sistema Digestório"
+        option_d: "Sistema Nervoso"
+        answer:   "b"
+        score:    10
+      - question: "Quantos pulmões tem o ser humano?"
+        option_a: "Nenhum"
+        option_b: "Cinco"
+        option_c: "Dois"
+        option_d: "Um"
+        answer:   "c"
+        score:    10
+      - question: "Onde ocorrem as trocas gasosas realizadas pelo pulmão?"
+        option_a: "Rins"
+        option_b: "Cérebro"
+        option_c: "Coração"
+        option_d: "Alvéolos pulmonares"
+        answer:   "d"
+        score:    10
+      - question: "Como é o processo da troca de gases realizada pelos pulmões?"
+        option_a: "Ocorre a entrada de oxigênio na hemoglobina do sangue e a liberação do gás carbônico."
+        option_b: "Ocorre a entrada de gás carbônico na hemoglobina do sangue e a liberação de oxigênio."
+        option_c: "Ocorre a entrada de oxigênio nos rins e a liberação do gás carbônico."
+        option_d: "Ocorre a entrada de oxigênio no cérebro e a liberação do gás carbônico."
+        answer:   "a"
+        score:    10
+      - question: "O ar entre e sai dos pulmões graças à que?"
+        option_a: "Às sinapses nervosas"
+        option_b: "Ao relaxamento do diafragma"
+        option_c: "À filtragem do sangue"
+        option_d: "Ao bombeamento de sangue"
+        answer:   "b"
+        score:    10
+      - question: "Qual o tamanho do pulmão de um indivíduo adulto?"
+        option_a: "Entre 23 e 27 centímetros de comprimento"
+        option_b: "Entre 5 e 10 centímetros de comprimento"
+        option_c: "Entre 58 e 70 centímetros de comprimento"
+        option_d: "Entre 100 e 200 centímetros de comprimento"
+        answer:   "a"
+        score:    10
+    word_searches_games:
+      - words:
+        - tip:    "Sistema do qual os pulmões fazem parte"
+          answer: "Respiratório"
+        - tip:    "Quantidade de pulmões no ser humano"
+          answer: "Dois"
+        - tip:    "Órgão que realiza trocas gasosas entre o sangue e o ambiente"
+          answer: "Pulmão"
+        - tip:    "Onde ocorrem as trocas gasosas"
+          answer: "Alvéolos pulmonares"
+        - tip:    "Processo de entrada de ar"
+          answer: "Inspiração"
+        - tip:    "Processo de saída do ar"
+          answer: "Expiração"
+        - tip:    "Formato dos pulmões"
+          answer: "Triangular"
+        - tip:    "O pulmão é formado por:"
+          answer: "Brônquios"
+        score:  10
+      - words:
+        - tip:    "Os brônquios são formados por:"
+          answer: "Bronquíolos"
+        - tip:    "Segmentos em que o pulmão é dividido"
+          answer: "Lobos"
+        - tip:    "Membrana que envolve o pulmão"
+          answer: "Pleura"
+        - tip:    "Onde o pulmão fica apoiado"
+          answer: "Diafragma"
+        - tip:    "Doença que atinge os pulmões"
+          answer: "Bronquite"
+        - tip:    "Doença que atinge os pulmões"
+          answer: "Pneumonia"
+        - tip:    "Doença que atinge os pulmões"
+          answer: "Tuberculose"
+        - tip:    "Doença que atinge os pulmões"
+          answer: "Asma"
+        score:  10
+    association_games:
+      - tip_answers:
+        - tip:    "Sistema do qual os pulmões fazem parte"
+          answer: "Respiratório"
+        - tip:    "Quantidade de pulmões no ser humano"
+          answer: "Dois"
+        - tip:    "Órgão que realiza trocas gasosas entre o sangue e o ambiente"
+          answer: "Pulmão"
+        - tip:    "Onde ocorrem as trocas gasosas"
+          answer: "Alvéolos pulmonares"
+        - tip:    "Processo de entrada de ar"
+          answer: "Inspiração"
+        score:  10
+      - tip_answers:
+        - tip:    "Processo de saída do ar"
+          answer: "Expiração"
+        - tip:    "Formato dos pulmões"
+          answer: "Triangular"
+        - tip:    "O pulmão é formado por:"
+          answer: "Brônquios"
+        - tip:    "Os brônquios são formados por:"
+          answer: "Bronquíolos"
+        - tip:    "Segmentos em que o pulmão é dividido"
+          answer: "Lobos"
+        score:  10
+      - tip_answers:
+        - tip:    "Membrana que envolve o pulmão"
+          answer: "Pleura"
+        - tip:    "Onde o pulmão fica apoiado"
+          answer: "Diafragma"
+        - tip:    "Doença que atinge os pulmões"
+          answer: "Bronquite"
+        - tip:    "Doença que atinge os pulmões"
+          answer: "Pneumonia"
+        - tip:    "Doença que atinge os pulmões"
+          answer: "Tuberculose"
+        score:  10
   - name: "Fígado"
     image_file_name: "liver.obj"
     stage: 2
+    studies:
+      - content: "O fígado é um órgão anexo do sistema digestório, que produz a bile (substâncias que emulsionam gorduras)."
+      - content: "O fígado é considerado a maior glândula mista do corpo humano, libera secreções em sistema de canais para superfície externa, ou também no sangue ou nos vasos linfáticos."
+      - content: "Desempenha variadas funções: armazenamento e liberação de glicose, produção de substâncias precursoras das plaquetas, atuação na conversão de amônia em uréia, desintoxicação do organismo e destruição de hemácias."
+      - content: "As principais enfermidades que acometem o fígado são: as hepatites, as fibroses hepáticas, as doenças provocadas por alcoolismo (cirrose), as doenças tóxicas hepáticas, as insuficiências hepáticas, entre outras."
+      - content: "Localiza-se na parte superior da cavidade abdominal, logo abaixo do diafragma, região denominada de hipocôndrio direito."
+      - content: "Tem formato de prisma, com coloração vermelho-escuro tendendo ao marrom arroxeado."
+      - content: "O tecido é constituído por milhares de lóbulos, minúsculos agregados celulares hepáticos."
+    hangman_games:
+      - tip:    "Órgão anexo do sistema digestório"
+        answer: "Fígado"
+        score:  10
+      - tip:    "Substância produzida pelo fígado"
+        answer: "Bile"
+        score:  10
+      - tip:    "Função da bile"
+        answer: "Emulsão de gordura"
+        score:  10
+      - tip:    "Maior glândula do corpo humano"
+        answer: "Fígado"
+        score:  10
+      - tip:    "Função do fígado"
+        answer: "Desintoxicação do organismo"
+        score:  10
+      - tip:    "Doença que ataca o fígado"
+        answer: "Hepatite"
+        score:  10
+      - tip:    "Doença que ataca o fígado"
+        answer: "Cirrose"
+        score:  10
+      - tip:    "Local onde o fígado se localiza"
+        answer: "Abaixo do diafragma"
+        score:  10
+      - tip:    "Formato do fígado"
+        answer: "Prisma"
+        score:  10
+      - tip:    "Cor do fígado"
+        answer: "Vermelho Escuro"
+        score:  10
+    quiz_games:
+      - question: "O fígado é um órgão anexo de qual sistema?"
+        option_a: "Sistema circulatório"
+        option_b: "Sistema reprodutivo"
+        option_c: "Sistema excretor"
+        option_d: "Sistema digestório"
+        answer:   "d"
+        score:    10
+      - question: "Qual o nome da substância que emulsiona gorduras produzida pelo fígado?"
+        option_a: "Bile"
+        option_b: "Estrogênio"
+        option_c: "Plaquetas"
+        option_d: "Uréia"
+        answer:   "a"
+        score:    10
+      - question: "Qual a maior glândula do corpo humano?"
+        option_a: "Salivar"
+        option_b: "Fígado"
+        option_c: "Sebácea"
+        option_d: "Carótida"
+        answer:   "b"
+        score:    10
+      - question: "Cite duas funções do fígado:"
+        option_a: "Desintoxicação do organismo e armazenamento de oxigênio"
+        option_b: "Armazenamento de oxigênio e liberação de gás carbônico"
+        option_c: "Desintoxicação do organismo e destruição de hemácias"
+        option_d: "Transporte de substâncias e produção de enzimas"
+        answer:   "c"
+        score:    10
+      - question: "Cite duas doenças que atacam o fígado:"
+        option_a: "Hepatite e cirrose"
+        option_b: "Gripe e hepatite"
+        option_c: "Cirrose e AIDS"
+        option_d: "AIDS e gripe"
+        answer:   "a"
+        score:    10
+      - question: "Onde o fígado fica localizado?"
+        option_a: "Na coluna vertebral"
+        option_b: "Na cabeça, abaixo do cérebro"
+        option_c: "Do lado direito do coração"
+        option_d: "Na parte superior da cavidade abdominal, abaixo do diafragma"
+        answer:   "d"
+        score:    10
+      - question: "Qual o formato e cor do fígado?"
+        option_a: "Tem formato triangular, com coloração azulada tendendo ao verde"
+        option_b: "Tem formato achatado, com coloração rosada tendendo ao vermelho"
+        option_c: "Tem formato de prisma, com coloração vermelho-escuro tendendo ao marrom arroxeado"
+        option_d: "Tem formato arredondado, com coloração amarelado tendendo ao verde"
+        answer:   "c"
+        score:    10
+    word_searches_games:
+      - words:
+        - tip:    "Órgão anexo do sistema digestório"
+          answer: "Fígado"
+        - tip:    "Substância produzida pelo fígado"
+          answer: "Bile"
+        - tip:    "Função da bile"
+          answer: "Emulsão de gordura"
+        - tip:    "Maior glândula do corpo humano"
+          answer: "Fígado"
+        - tip:    "Função do fígado"
+          answer: "Desintoxicação do organismo"
+        score:  10
+      - words:
+        - tip:    "Doença que ataca o fígado"
+          answer: "Hepatite"
+        - tip:    "Doença que ataca o fígado"
+          answer: "Cirrose"
+        - tip:    "Local onde o fígado se localiza"
+          answer: "Abaixo do diafragma"
+        - tip:    "Formato do fígado"
+          answer: "Prisma"
+        - tip:    "Cor do fígado"
+          answer: "Vermelho Escuro"
+        score:  10
+    association_games:
+      - tip_answers:
+        - tip:    "Órgão anexo do sistema digestório"
+          answer: "Fígado"
+        - tip:    "Substância produzida pelo fígado"
+          answer: "Bile"
+        - tip:    "Função da bile"
+          answer: "Emulsão de gordura"
+        - tip:    "Maior glândula do corpo humano"
+          answer: "Fígado"
+        - tip:    "Função do fígado"
+          answer: "Desintoxicação do organismo"
+        score:    10
+      - tip_answers:
+        - tip:    "Doença que ataca o fígado"
+          answer: "Hepatite"
+        - tip:    "Doença que ataca o fígado"
+          answer: "Cirrose"
+        - tip:    "Local onde o fígado se localiza"
+          answer: "Abaixo do diafragma"
+        - tip:    "Formato do fígado"
+          answer: "Prisma"
+        - tip:    "Cor do fígado"
+          answer: "Vermelho Escuro"
+        score:  10
   - name: "Rim"
     image_file_name: "kidney.obj"
     stage: 3
+    studies:
+      - content: "Os rins são órgãos excretores presentes no corpo dos animais vertebrados."
+      - content: "Os rins são órgãos pares, em forma de grão de feijão, localizados logo acima da cintura, de cada lado da coluna vertebral. Sua coloração é vermelho-parda."
+      - content: "Os rins realizam o trabalho principal do sistema excretor, com as outras partes do sistema atuando, principalmente, como vias de passagem e áreas de armazenamento."
+      - content: "Os rins possuem importantes funções no organismo humano como, por exemplo: excretar resíduos através da urina (exemplos: ureia e creatina); produzir alguns tipos de hormônios como, por exemplo, a eritropoietina; excretar substâncias de origem externa, como, por exemplo, medicamentos"
+      - content: "Na borda medial de cada rim encontra-se o hilo, por onde passa o ureter, a veia renal, nervos e artéria. Os rins são supridos pela artéria renal, que tem origem na aorta."
+      - content: "A parte externa dos rins é envolvida por um tecido fibroso, chamado de cápsula renal. Em volta de cada rim há o acúmulo de um tecido gorduroso."
+      - content: "A principal doença que atinge os rins é uma inflamação conhecida como Nefrite."
+    hangman_games:
+      - tip:    "Órgãos Excretores"
+        answer: "Rins"
+        score:  10
+      - tip:    "O rim tem formato de:"
+        answer: "Feijão"
+        score:  10
+      - tip:    "Localizado de cada lado da:"
+        answer: "Coluna Vertebral"
+        score:  10
+      - tip:    "Cor do rim"
+        answer: "Vermelho-pardo"
+        score:  10
+      - tip:    "Sistema que o rim faz parte"
+        answer: "Excretor"
+        score:  10
+      - tip:    "Resíduo que o rim excreta"
+        answer: "Ureia"
+        score:  10
+      - tip:    "Resíduo que o rim excreta"
+        answer: "Creatina"
+        score:  10
+      - tip:    "Hormônio produzido pelo rim"
+        answer: "Eritropoietina"
+        score:  10
+      - tip:    "Substância produzida pelo rim para excretar resíduos"
+        answer: "Urina"
+        score:  10
+      - tip:    "Canal nos rins por onde passa o ureter, a veia renal, nervos e artéria"
+        answer: "Hilo"
+        score:  10
+      - tip:    "Tecido fibroso que envolve o rim"
+        answer: "Cápsula Renal"
+        score:  10
+      - tip:    "Principal doença que atinge o rim"
+        answer: "Nefrite"
+        score:  10
+    quiz_games:
+      - question: "Os rins estão presentes no corpo de quais animais?"
+        option_a: "Vertebrados"
+        option_b: "Invertebrados"
+        option_c: "Moluscos"
+        option_d: "Peixes"
+        answer:   "a"
+        score:    10
+      - question: "Quantos rins o ser humano possui?"
+        option_a: "Cinco"
+        option_b: "Um"
+        option_c: "Dois"
+        option_d: "Dez"
+        answer:   "c"
+        score:    10
+      - question: "Qual o formato de um rim?"
+        option_a: "Caju"
+        option_b: "Feijão"
+        option_c: "Punho fechado"
+        option_d: "Triangular"
+        answer:   "b"
+        score:    10
+      - question: "Onde estão localizados os rins?"
+        option_a: "Próximo às vias nasais"
+        option_b: "Na parte de trás do crânio"
+        option_c: "Ao lado do coração"
+        option_d: "Logo acima da cintura, de cada lado da coluna vertebral"
+        answer:   "d"
+        score:    10
+      - question: "Qual é o sistema ao qual o rim pertence?"
+        option_a: "Sistema Circulatório"
+        option_b: "Sistema Excretor"
+        option_c: "Sistema Digestório"
+        option_d: "Sistema Nervoso"
+        answer:   "b"
+        score:    10
+      - question: "Quais as principais funções dos rins?"
+        option_a: "Reprodução, digestão e produção de hormônios"
+        option_b: "Purificar o organismos e produzir glóbulos vermelhos"
+        option_c: "Excretar resíduos, produzir alguns tipos de hormônios e excretar substâncias de origem externa"
+        option_d: "Transportar nutrientes e digerir alimentos"
+        answer:   "c"
+        score:    10
+      - question: "Cite dois resíduos excretados pelo rim:"
+        option_a: "Proteína e creatina"
+        option_b: "Ureia e bile"
+        option_c: "Aminoácidos e gordura"
+        option_d: "Ureia e creatina"
+        answer:   "d"
+        score:    10
+      - question: "O que passa pelo Hilo?"
+        option_a: "O ureter, a veia renal, nervos e artéria renal"
+        option_b: "O ureter e a artéria aorta"
+        option_c: "Nervos e intestino"
+        option_d: "Veias e traquéia"
+        answer:   "a"
+        score:    10
+      - question: "Qual é a principal doença que atinge o fígado?"
+        option_a: "Tuberculose"
+        option_b: "Úlcera"
+        option_c: "Pneumonia"
+        option_d: "Nefrite"
+        answer:   "d"
+        score:    10
+    word_searches_games:
+      - words:
+        - tip:    "Órgãos Excretores"
+          answer: "Rins"
+        - tip:    "O rim tem formato de:"
+          answer: "Feijão"
+        - tip:    "Localizado de cada lado da:"
+          answer: "Coluna Vertebral"
+        - tip:    "Cor do rim"
+          answer: "Vermelho-pardo"
+        - tip:    "Sistema que o rim faz parte"
+          answer: "Excretor"
+        - tip:    "Resíduo que o rim excreta"
+          answer: "Ureia"
+        score: 10
+      - words:
+        - tip:    "Resíduo que o rim excreta"
+          answer: "Creatina"
+        - tip:    "Hormônio produzido pelo rim"
+          answer: "Eritropoietina"
+        - tip:    "Substância produzida pelo rim para excretar resíduos"
+          answer: "Urina"
+        - tip:    "Canal nos rins por onde passa o ureter, a veia renal, nervos e artéria"
+          answer: "Hilo"
+        - tip:    "Tecido fibroso que envolve o rim"
+          answer: "Cápsula Renal"
+        - tip:    "Principal doença que atinge o rim"
+          answer: "Nefrite"
+        score: 10
+    association_games:
+      - tip_answers:
+        - tip:    "Órgãos Excretores"
+          answer: "Rins"
+        - tip:    "O rim tem formato de:"
+          answer: "Feijão"
+        - tip:    "Localizado de cada lado da:"
+          answer: "Coluna Vertebral"
+        - tip:    "Cor do rim"
+          answer: "Vermelho-pardo"
+        - tip:    "Sistema que o rim faz parte"
+          answer: "Excretor"
+        score: 10
+      - tip_answers:
+        - tip:    "Resíduo que o rim excreta"
+          answer: "Ureia"
+        - tip:    "Resíduo que o rim excreta"
+          answer: "Creatina"
+        - tip:    "Hormônio produzido pelo rim"
+          answer: "Eritropoietina"
+        - tip:    "Substância produzida pelo rim para excretar resíduos"
+          answer: "Urina"
+        - tip:    "Canal nos rins por onde passa o ureter, a veia renal, nervos e artéria"
+          answer: "Hilo"
+        score: 10
   - name: "Faringe"
     image_file_name: "pharynx.obj"
     stage: 4
+    studies:
+      - content: "A faringe é um órgão tubular de aproximadamente quinze centímetros, com cerca de três centímetros na sua extremidade superior e 1,5 cm na inferior. Localizada atrás das cavidades nasais, é rica em vasos e nervos, sendo formada principalmente de tecido muscular do tipo esquelético, revestido por camada mucosa."
+      - content: "Cumpre funções relativas tanto ao sistema respiratório quanto digestório, já que por ela é possível o trânsito de ar e também de alimentos. Ela é dividida em três regiões anatômicas: a nasofaringe, orofaringe e laringofaringe."
+      - content: "A laringofaringe, ou faringe inferior, é conectada ao esôfago e laringe sendo, portanto, uma via tanto digestória quanto respiratória: funções também exercidas pela orofaringe. Esta última, também chamada de faringe média, está localizada na parte média deste órgão, e tem comunicação com a boca."
+      - content: "Já a parte superior da faringe, a nasofaringe, se estende da base do crânio até o palato mole, exercendo exclusivamente função respiratória. Ela se comunica com a orofaringe, fossas nasais, tubas auditivas, dentre outras estruturas; e é nela que se localiza a amígdala: responsável por captar, filtrar e destruir partículas estranhas ao organismo."
+      - content: "O ar inspirado tanto pelo nariz quanto pela boca passa pela faringe. No primeiro caso, ele é transportado para a nasofaringe, seguindo pela faringe média e inferior, até a laringe. Já na outra situação, ele se encaminha diretamente para a faringe média, fazendo o mesmo percurso restante. Quanto aos alimentos, estes entram unicamente pela faringe média, se direcionam até a inferior e desembocam no esôfago."
+      - content: "Tal versatilidade só é possível graças à epiglote: estrutura que fecha a entrada da laringe nos momentos de deglutição, fazendo com que o alimento se direcione ao esôfago; e se abre ao respirarmos, liberando a passagem de ar pela laringe."
+    hangman_games:
+      - tip:    "Como é chamada a faringe inferior"
+        answer: "Laringofaringe"
+        score:  10
+      - tip:    "Como é chamada a faringe média"
+        answer: "Orofaringe"
+        score:  10
+      - tip:    "Como é chamada a faringe superior"
+        answer: "Nasofaringe"
+        score:  10
+      - tip:    "Pela faringe passa tanto ar quanto:"
+        answer: "Alimentos"
+        score:  10
+      - tip:    "Formato da faringe"
+        answer: "Tubular"
+        score:  10
+      - tip:    "Responsável por captar, filtrar e destruir partículas estranhas ao organismo"
+        answer: "Amígdala"
+        score:  10
+      - tip:    "Estrutura que torna a faringe versátil"
+        answer: "Epiglote"
+        score:  10
+      - tip:    "O alimento passa da faringe para o:"
+        answer: "Esôfago"
+        score:  10
+      - tip:    "A faringe está localizada atrás das:"
+        answer: "Cavidades nasais"
+        score:  10
+      - tip:    "Parte da faringe que exerce somente função respiratória"
+        answer: "Nasofaringe"
+        score:  10
+    quiz_games:
+      - question: "A faringe cumpre funções para quais sistemas?"
+        option_a: "Respiratório e reprodutor"
+        option_b: "Circulatório e digestório"
+        option_c: "Digestório e respiratório"
+        option_d: "Excretor e reprodutor"
+        answer:   "c"
+        score:    10
+      - question: "Quais são as regiões da faringe?"
+        option_a: "A orofaringe e laringofaringe. "
+        option_b: "A nasofaringe, orofaringe e laringofaringe"
+        option_c: "A nasofaringe e orofaringe. "
+        option_d: "A nasofaringe e laringofaringe. "
+        answer:   "b"
+        score:    10
+      - question: "Qual estrutura permite a versatilidade da faringe?"
+        option_a: "Brônquios"
+        option_b: "Aorta"
+        option_c: "Bile"
+        option_d: "Epiglote"
+        answer:   "d"
+        score:    10
+      - question: "Qual a função da Amígdala?"
+        option_a: "Responsável pelas conexões entre neurônios"
+        option_b: "Responsável pela circulação de sangue"
+        option_c: "Responsável por captar, filtrar e destruir partículas estranhas ao organismo"
+        option_d: "Responsável pelas trocas gasosas entre o sangue e o ambiente"
+        answer:   "c"
+        score:    10
+      - question: "Qual o formato da faringe?"
+        option_a: "Tubular"
+        option_b: "Triangular"
+        option_c: "Redonda"
+        option_d: "Achatada"
+        answer:   "a"
+        score:    10
+    word_searches_games:
+      - words:
+        - tip: "Como é chamada a faringe inferior"
+          answer: "Laringofaringe"
+        - tip: "Como é chamada a faringe média"
+          answer: "Orofaringe"
+        - tip: "Como é chamada a faringe superior"
+          answer: "Nasofaringe"
+        - tip: "Pela faringe passa tanto ar quanto:"
+          answer: "Alimentos"
+        - tip: "Formato da faringe"
+          answer: "Tubular"
+        score: 10
+      - words:
+        - tip: "Responsável por captar, filtrar e destruir partículas estranhas ao organismo"
+          answer: "Amígdala"
+        - tip: "Estrutura que torna a faringe versátil"
+          answer: "Epiglote"
+        - tip: "O alimento passa da faringe para o:"
+          answer: "Esôfago"
+        - tip: "A faringe está localizada atrás das:"
+          answer: "Cavidades nasais"
+        - tip: "Parte da faringe que exerce somente função respiratória"
+          answer: "Nasofaringe"
+        score: 10
+    association_games:
+      - tip_answers:
+        - tip: "Como é chamada a faringe inferior"
+          answer: "Laringofaringe"
+        - tip: "Como é chamada a faringe média"
+          answer: "Orofaringe"
+        - tip: "Como é chamada a faringe superior"
+          answer: "Nasofaringe"
+        - tip: "Pela faringe passa tanto ar quanto:"
+          answer: "Alimentos"
+        - tip: "Formato da faringe"
+          answer: "Tubular"
+        score: 10
+      - tip_answers:
+        - tip: "Responsável por captar, filtrar e destruir partículas estranhas ao organismo"
+          answer: "Amígdala"
+        - tip: "Estrutura que torna a faringe versátil"
+          answer: "Epiglote"
+        - tip: "O alimento passa da faringe para o:"
+          answer: "Esôfago"
+        - tip: "A faringe está localizada atrás das:"
+          answer: "Cavidades nasais"
+        - tip: "Parte da faringe que exerce somente função respiratória"
+          answer: "Nasofaringe"
+        score: 10
   - name: "Cérebro"
     image_file_name: "brain.obj"
     stage: 5
+    studies:
+      - content: "A superfície do cérebro – o córtex cerebral – é composta por seis camadas de neurônios (células do sistema nervoso responsáveis pela condução do impulso nervoso)"
+      - content: "O cérebro humano possui quatro áreas conhecidas como lóbulo frontal, lóbulo parietal, lóbulo temporal e lóbulo occipital."
+      - content: "O lóbulo frontal é assim chamado por localizar-se na parte frontal do crânio. Ele parece ser particularmente importante por ser responsável pelos movimentos voluntários e também por ser o lóbulo mais significante para o estudo da personalidade e inteligência."
+      - content: "O lóbulo parietal está localizado na parte posterior do lóbulo frontal. Ele possui uma área denominada somatossensória, responsável pela percepção de estímulos sensoriais que ocorrem através da epiderme ou órgãos internos."
+      - content: "O lóbulo temporal possui uma área especial chamada córtex auditivo, como o próprio nome já diz, esta área está intimamente ligada a audição."
+      - content: "Na parte de trás da cabeça, mais precisamente na região da nuca, localiza-se o lóbulo occipital. Nele encontra-se o córtex visual, que recebe todas as informações captadas pelos olhos; melhor dizendo, sua especialidade é a visão."
+      - content: "Existem outras áreas dos lóbulos que não possuem especialização, estas são chamadas de córtex de associação. Além de serem conectadas a vários sentidos e movimentos, acredita-se que nelas também são processados nossos pensamentos e armazenadas nossas memórias."
+      - content: "O hemisfério esquerdo do cérebro dos seres humanos é o responsável pelo pensamento lógico e também pela comunicação verbal (fala)."
+      - content: "O hemisfério direito é o responsável pela intuição, estabelecimento de analogias e comunicação não verbal."
+    hangman_games:
+      - tip:    "Superfície do cérebro"
+        answer: "Córtex cerebral"
+        score:  10
+      - tip:    "Quantidade de lóbulos do cérebro"
+        answer: "Quatro"
+        score:  10
+      - tip:    "Responsabilidade do lóbulo frontal"
+        answer: "Movimentos voluntários"
+        score:  10
+      - tip:    "Lóbulo responsável pela percepção de estímulos sensoriais"
+        answer: "Parietal"
+        score:  10
+      - tip:    "Lóbulo ligado à audição"
+        answer: "Temporal"
+        score:  10
+      - tip:    "Lóbulo ligado à visão"
+        answer: "Occipital"
+        score:  10
+      - tip:    "Áreas do cérebro que não possuem especialização"
+        answer: "Córtex de associação"
+        score:  10
+      - tip:    "Responsabilidade do hemisfério esquerdo do cérebro"
+        answer: "Pensamentos"
+        score:  10
+      - tip:    "Responsabilidade do hemisfério direito do cérebro"
+        answer: "Intuição"
+        score:  10
+      - tip:    "Córtex de associação armazenam:"
+        answer: "Memórias"
+        score:  10
+    quiz_games:
+      - question: "O que são os neurônios?"
+        option_a: "Células do sistema nervoso responsáveis pela condução do impulso nervoso"
+        option_b: "Células do sistema digestório responsáveis pela condução do impulso nervoso"
+        option_c: "Células do sistema excretor responsáveis pela condução do impulso nervoso"
+        option_d: "Células do sistema respiratório responsáveis pela condução do impulso nervoso"
+        answer:   "a"
+        score:    10
+      - question: "Quais são os lóbulos do cérebro?"
+        option_a: "Parietal e Temporal"
+        option_b: "Frontal e occipital"
+        option_c: "Frontal, direito, esquerdo e traseiro"
+        option_d: "Frontal, parietal, temporal e occipital"
+        answer:   "d"
+        score:    10
+      - question: "Qual a responsabilidade do lóbulo frontal?"
+        option_a: "Visão e audição"
+        option_b: "Paladar"
+        option_c: "Movimentos voluntários e é o lóbulo mais significante para o estudo da personalidade e inteligência"
+        option_d: "Fala"
+        answer:   "c"
+        score:    10
+      - question: "Qual a responsabilidade do lóbulo parietal?"
+        option_a: "Visão"
+        option_b: "Percepção de estímulos sensoriais"
+        option_c: "Cinco sentidos"
+        option_d: "Audição e paladar"
+        answer:   "b"
+        score:    10
+      - question: "Qual a responsabilidade do lóbulo temporal?"
+        option_a: "Audição"
+        option_b: "Fala"
+        option_c: "Paladar"
+        option_d: "Visão"
+        answer:   "a"
+        score:    10
+      - question: "Qual a responsabilidade do lóbulo occipital?"
+        option_a: "Audição"
+        option_b: "Fala"
+        option_c: "Paladar"
+        option_d: "Tato"
+        answer:   "c"
+        score:    10
+      - question: "Para que servem os córtex de associação?"
+        option_a: "Cinco sentidos"
+        option_b: "Processamento de pensamentos e armazenamento de memórias"
+        option_c: "Percepção de estímulos sensoriais"
+        option_d: "Movimentos voluntários"
+        answer:   "b"
+        score:    10
+    word_searches_games:
+      - words:
+        - tip:    "Superfície do cérebro"
+          answer: "Córtex cerebral"
+        - tip:    "Quantidade de lóbulos do cérebro"
+          answer: "Quatro"
+        - tip:    "Responsabilidade do lóbulo frontal"
+          answer: "Movimentos voluntários"
+        - tip:    "Lóbulo responsável pela percepção de estímulos sensoriais"
+          answer: "Parietal"
+        - tip:    "Lóbulo ligado à audição"
+          answer: "Temporal"
+        score:  10
+      - words:
+        - tip:    "Lóbulo ligado à visão"
+          answer: "Occipital"
+        - tip:    "Áreas do cérebro que não possuem especialização"
+          answer: "Córtex de associação"
+        - tip:    "Responsabilidade do hemisfério esquerdo do cérebro"
+          answer: "Pensamentos"
+        - tip:    "Responsabilidade do hemisfério direito do cérebro"
+          answer: "Intuição"
+        - tip:    "Córtex de associação armazenam:"
+          answer: "Memórias"
+        score:  10
+    association_games:
+      - tip_answers:
+        - tip:    "Superfície do cérebro"
+          answer: "Córtex cerebral"
+        - tip:    "Quantidade de lóbulos do cérebro"
+          answer: "Quatro"
+        - tip:    "Responsabilidade do lóbulo frontal"
+          answer: "Movimentos voluntários"
+        - tip:    "Lóbulo responsável pela percepção de estímulos sensoriais"
+          answer: "Parietal"
+        - tip:    "Lóbulo ligado à audição"
+          answer: "Temporal"
+        score:  10
+      - tip_answers:
+        - tip:    "Lóbulo ligado à visão"
+          answer: "Occipital"
+        - tip:    "Áreas do cérebro que não possuem especialização"
+          answer: "Córtex de associação"
+        - tip:    "Responsabilidade do hemisfério esquerdo do cérebro"
+          answer: "Pensamentos"
+        - tip:    "Responsabilidade do hemisfério direito do cérebro"
+          answer: "Intuição"
+        - tip:    "Córtex de associação armazenam:"
+          answer: "Memórias"
+        score:  10
   - name: "Crânio"
     image_file_name: "skull.obj"
     stage: 6
   - name: "Dente"
     image_file_name: "teeth.obj"
     stage: 7
-  - name: "Olho"
+    studies:
+      - content: "Os dentes são órgãos do corpo humano de consistência dura, natureza calcária e cor branca. Os dentes estão localizados na boca e fixados nos maxilares."
+      - content: "A principal função dos dentes é realizar a mastigação dos alimentos."
+      - content: "Os dentes são classificados de acordo com a posição e a função. Incisivos: dentes situados na parte da frente da boca e que servem para cortar os alimentos. Caninos: possuem formato agudo e pontiagudo e servem para rasgar os alimentos. Pré-molares e molares: possuem a função de triturar os alimentos e localizam-se no fundo da boca."
+      - content: "Os seres humanos possuem, na sua primeira dentição, 20 dentes de leite (10 na parte superior e 10 na inferior). Após os 6 anos, os dentes de leite começam a cair e surge a dentição permanente. Esta é formada por 32 dentes (16 superiores e 16 inferiores). Desta forma, o ser humano possui 4 incisivos, 2 caninos, 4 pré-molares e 6 molares na parte superior e a mesma quantidade na inferior."
+      - content: "Para uma boa conservação dos dentes é necessário escovação adequada, após as refeições. O uso de fio dental e produtos enxaguatórios também são importantes. Deve-se visitar um dentista a cada 6 meses. Desta forma, é possível evitar as cáries e outras doenças bucais."
+    hangman_games:
+      - tip:    "Órgão de consistência dura, cor branca e natureza calcária"
+        answer: "Dentes"
+        score:  10
+      - tip:    "Onde os dentes estão localizados"
+        answer: "Boca"
+        score:  10
+      - tip:    "Onde os dentes ficam fixados"
+        answer: "Maxilares"
+        score:  10
+      - tip:    "Função dos dentes"
+        answer: "Mastigação dos alimentos"
+        score:  10
+      - tip:    "Dentes que servem para cortar alimentos"
+        answer: "Incisivos"
+        score:  10
+      - tip:    "Pontiagudos e servem para rasgar alimentos"
+        answer: "Caninos"
+        score:  10
+      - tip:    "Servem para triturar alimentos"
+        answer: "Molares"
+        score:  10
+      - tip:    "Doença que ataca os dentes"
+        answer: "Cáries"
+        score:  10
+      - tip:    "Quantidade de dentes de leite"
+        answer: "Vinte"
+        score:  10
+      - tip:    "Idade em que os dentes de leite começam a cair"
+        answer: "Seis"
+        score:  10
+    quiz_games:
+      - question: "Como são os dentes?"
+        option_a: "Apresentam consistência dura, natureza calcária e cor branca"
+        option_b: "Brancos e moles"
+        option_c: "Feitos de cálcio  e cinzas"
+        option_d: "Duros e verdes"
+        answer:   "a"
+        score:    10
+      - question: "Função dos dentes"
+        option_a: "Enfeitar a boca"
+        option_b: "Mastigação de alimentos"
+        option_c: "Excretar substâncias"
+        option_d: "Bloquear a passagem de alimentos"
+        answer:   "b"
+        score:    10
+      - question: "Qual a função dos dentes incisivos?"
+        option_a: "Situados na frente da boca e servem para triturar alimentos"
+        option_b: "Possuem formato pontiagudo e servem para rasgar os alimentos"
+        option_c: "Dentes situados na frente da boca e servem para cortar os alimentos"
+        option_d: "Servem para triturar os alimentos e localizam-se no fundo da boca"
+        answer:   "c"
+        score:    10
+      - question: "Qual a função dos dentes caninos?"
+        option_a: "Dentes situados na frente da boca e servem para cortar os alimentos"
+        option_b: "Servem para triturar os alimentos e localizam-se no fundo da boca"
+        option_c: "Situados na frente da boca e servem para triturar alimentos"
+        option_d: "Possuem formato pontiagudo e servem para rasgar os alimentos"
+        answer:   "d"
+        score:    10
+      - question: "Qual a função dos dentes molares e pré-molares"
+        option_a: "Dentes situados na frente da boca e servem para cortar os alimentos"
+        option_b: "Possuem formato pontiagudo e servem para rasgar os alimentos"
+        option_c: "Situados na frente da boca e servem para triturar alimentos"
+        option_d: "Servem para triturar os alimentos e localizam-se no fundo da boca"
+        answer:   "d"
+        score:    10
+      - question: "Doença que ataca os dentes"
+        option_a: "Herpes"
+        option_b: "Cáries"
+        option_c: "Cirrose"
+        option_d: "Hepatite"
+        answer:   "b"
+        score:    10
+    word_searches_games:
+      - words:
+        - tip:    "Órgão de consistência dura, cor branca e natureza calcária"
+          answer: "Dentes"
+        - tip:    "Onde os dentes estão localizados"
+          answer: "Boca"
+        - tip:    "Onde os dentes ficam fixados"
+          answer: "Maxilares"
+        - tip:    "Função dos dentes"
+          answer: "Mastigação dos alimentos"
+        - tip:    "Dentes que servem para cortar alimentos"
+          answer: "Incisivos"
+        score: 10
+      - words:
+        - tip: "Pontiagudos e servem para rasgar alimentos"
+          answer: "Caninos"
+        - tip: "Servem para triturar alimentos"
+          answer: "Molares"
+        - tip: "Doença que ataca os dentes"
+          answer: "Cáries"
+        - tip: "Quantidade de dentes de leite"
+          answer: "Vinte"
+        - tip: "Idade em que os dentes de leite começam a cair"
+          answer: "Seis"
+        score: 10
+    association_games:
+      - tip_answers:
+        - tip:    "Órgão de consistência dura, cor branca e natureza calcária"
+          answer: "Dentes"
+        - tip:    "Onde os dentes estão localizados"
+          answer: "Boca"
+        - tip:    "Onde os dentes ficam fixados"
+          answer: "Maxilares"
+        - tip:    "Função dos dentes"
+          answer: "Mastigação dos alimentos"
+        - tip:    "Dentes que servem para cortar alimentos"
+          answer: "Incisivos"
+        score: 10
+      - tip_answers:
+        - tip: "Pontiagudos e servem para rasgar alimentos"
+          answer: "Caninos"
+        - tip: "Servem para triturar alimentos"
+          answer: "Molares"
+        - tip: "Doença que ataca os dentes"
+          answer: "Cáries"
+        - tip: "Quantidade de dentes de leite"
+          answer: "Vinte"
+        - tip: "Idade em que os dentes de leite começam a cair"
+          answer: "Seis"
+        score: 10
+  - name: "Olhos"
     image_file_name: "eyes.obj"
     stage: 8
+    studies:
+      - content: "O olho é responsável por captar a luz externa e passar suas informações para o cérebro."
+      - content: "Para que você possa ver, a luz tem que passar pela pupila e refletir na retina. Lá estão os \"sensores ópticos\", os Cones e os Bastonetes. Os cones são responsáveis pela visão colorida e os bastonetes são sensíveis a iluminação fraca e não detectam cor. "
+      - content: "Existe no olho um ponto chamado de ponto cego, nele não existem células sensíveis a luz."
+      - content: "Da retina sai um nervo óptico que leva as informações para o cérebro."
+      - content: "A entrada de luz é controlada pela pupila, um pequeno orifício existente logo à frente do cristalino. A pupila fica maior quando há pouca luz mas, quando há mais luz, a íris se relaxa fazendo com que a pupila diminua e que entre menos luz. Quando saímos de um ambiente fortemente iluminado e vamos para outro mais escuro, nosso olho demora um pouco a se adaptar porque a íris tem que se contrair."
+      - content: "Cada globo ocular é movido por seis músculos em diferentes direções. Dois músculos movimentam os olhos para uma lado e para o outro, dois que movimentam para cima e para baixo e dois que completam os movimentos:"
+    hangman_games:
+      - tip:    "Órgão responsável pela visão"
+        answer: "Olho"
+        score:  10
+      - tip:    "Sensor responsável pela visão colorida"
+        answer: "Cones"
+        score:  10
+      - tip:    "Sensor sensível a iluminação"
+        answer: "Bastonetes"
+        score:  10
+      - tip:    "Nervo que leva informações ao cérebro"
+        answer: "Nervo Óptico"
+        score:  10
+      - tip:    "Controla a entrada de luz"
+        answer: "Pupila"
+        score:  10
+      - tip:    "A pupila fica à frente do:"
+        answer: "Cristalino"
+        score:  10
+      - tip:    "Quantidade de músculos que movimentam o olho"
+        answer: "Seis"
+        score:  10
+      - tip:    "Quando há mais luz, a pupila:"
+        answer: "Diminiu"
+        score:  10
+      - tip:    "Quando há menos luz, a pupila:"
+        answer: "Aumenta"
+        score:  10
+      - tip:    "Ponto do olho onde não há células sensíveis a luz"
+        answer: "Ponto cego"
+        score:  10
+    quiz_games:
+      - question: "Em qual parte do olho a luz é refletida?"
+        option_a: "Pupila"
+        option_b: "Retina"
+        option_c: "Cristalino"
+        option_d: "Íris"
+        answer:   "b"
+        score:    10
+      - question: "Quais são os dois sensores ópticos"
+        option_a: "Cones e Trapézios"
+        option_b: "Bastonetes e Batedores"
+        option_c: "Cones e Cilindros"
+        option_d: "Cones e Bastonetes"
+        answer:   "d"
+        score:    10
+      - question: "Qual a função dos cones?"
+        option_a: "São responsáveis pela visão colorida "
+        option_b: "São responsáveis por captar iluminação"
+        option_c: "São responsáveis pelo paladar"
+        option_d: "Não possuem função conhecida"
+        answer:   "a"
+        score:    10
+      - question: "De onde sai o nervo óptico que leva informações ao cérebro?"
+        option_a: "Pupila"
+        option_b: "Cristalino"
+        option_c: "Retina"
+        option_d: "Íris"
+        answer:   "c"
+        score:    10
+      - question: "Como funciona a pupila?"
+        option_a: "Estreita quando há pouca luz"
+        option_b: "Não muda de tamanho"
+        option_c: "Cresce quando há pouca luz mas e diminui quando há muita luz"
+        option_d: "Cresce quando há muita luz mas e diminui quando há pouca luz"
+        answer:   "c"
+        score:    10
+    word_searches_games:
+      - words:
+        - tip:    "Órgão responsável pela visão"
+          answer: "Olho"
+        - tip:    "Sensor responsável pela visão colorida"
+          answer: "Cones"
+        - tip:    "Sensor sensível a iluminação"
+          answer: "Bastonetes"
+        - tip:    "Nervo que leva informações ao cérebro"
+          answer: "Nervo Óptico"
+        - tip:    "Controla a entrada de luz"
+          answer: "Pupila"
+        score: 10
+      - words:
+        - tip:    "A pupila fica à frente do:"
+          answer: "Cristalino"
+        - tip:    "Quantidade de músculos que movimentam o olho"
+          answer: "Seis"
+        - tip:    "Quando há mais luz, a pupila:"
+          answer: "Diminiu"
+        - tip:    "Quando há menos luz, a pupila:"
+          answer: "Aumenta"
+        - tip:    "Ponto do olho onde não há células sensíveis a luz"
+          answer: "Ponto cego"
+        score: 10
+    association_games:
+      - tip_answers:
+        - tip:    "Órgão responsável pela visão"
+          answer: "Olho"
+        - tip:    "Sensor responsável pela visão colorida"
+          answer: "Cones"
+        - tip:    "Sensor sensível a iluminação"
+          answer: "Bastonetes"
+        - tip:    "Nervo que leva informações ao cérebro"
+          answer: "Nervo Óptico"
+        - tip:    "Controla a entrada de luz"
+          answer: "Pupila"
+        score: 10
+      - tip_answers:
+        - tip:    "A pupila fica à frente do:"
+          answer: "Cristalino"
+        - tip:    "Quantidade de músculos que movimentam o olho"
+          answer: "Seis"
+        - tip:    "Quando há mais luz, a pupila:"
+          answer: "Diminiu"
+        - tip:    "Quando há menos luz, a pupila:"
+          answer: "Aumenta"
+        - tip:    "Ponto do olho onde não há células sensíveis a luz"
+          answer: "Ponto cego"
+        score: 10
