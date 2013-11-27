@@ -126,6 +126,7 @@ organs:
           answer: "Nodo sinoatrial"
         score: 10
     association_games:
+      - tip_answers:
         - tip:    "Órgão muscular Oco"
           answer: "Coração"
         - tip:    "Sangue Oxigenado"
