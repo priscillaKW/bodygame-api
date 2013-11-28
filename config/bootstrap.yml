@@ -911,6 +911,128 @@ organs:
   - name: "Crânio"
     image_file_name: "skull.obj"
     stage: 6
+    studies:
+      - content: "Termo usado para definir a estrutura rígida (dura), cartilaginosa ou óssea, localizada em posição anterior em relação à coluna vertebral em todos os animais vertebrados."
+      - content: "O crânio possui a função de armazenar e proteger o encéfalo, além de proporcionar fixação aos músculos do rosto e da boca."
+      - content: "Em alguns vertebrados inferiores, o crânio é formado por cartilagem durante toda a vida do organismo. Nos vertebrados mais evoluídos, como o ser humano, o crânio é cartilaginoso durante a fase de embrião e se calcifica no começo da vida após o nascimento, até ficar rígido."
+      - content: "O crânio humano é composto de oito ossos: Parietal (dois), Temporal (dois), Frontal, Occipital, Esfenóide, Etmóide"
+    hangman_games:
+      - tip:    "O crânio tem uma estrutura"
+        answer: "Rígida"
+        score:  10
+      - tip:    "Animais que possuem crânio"
+        answer: "Vertebrados"
+        score:  10
+      - tip:    "A função do crânio é armazenar e proteger o"
+        answer: "Encéfalo"
+        score:  10
+      - tip:    "Em vertebrados inferiores, o crânio é formado por"
+        answer: "Cartilagem"
+        score:  10
+      - tip:    "Osso do crânio"
+        answer: "Parietal"
+        score:  10
+      - tip:    "No ser humano, o crânio é cartilaginoso na fase"
+        answer: "Embrionária"
+        score:  10
+      - tip:    "No ser humano, o crânio se calcifica após o"
+        answer: "Nascimento"
+        score:  10
+      - tip:    "Quantidade de ossos no crânio"
+        answer: "Oito"
+        score:  10
+      - tip:    "Osso do crânio"
+        answer: "Temporal"
+        score:  10
+      - tip:    "Osso do crânio"
+        answer: "Esfenóide"
+        score:  10
+    quiz_games:
+      - question: "Em que animais o crânio é encontrado?"
+        option_a: "Mamíferos"
+        option_b: "Moluscos"
+        option_c: "Vertebrados"
+        option_d: "Invertebrados"
+        answer:   "c"
+        score:    10
+      - question: "Qual a função do crânio?"
+        option_a: "Fixar os músculos do rosto e da boca"
+        option_b: "Armazenar e proteger os pulmões"
+        option_c: "Armazenar e proteger o coração"
+        option_d: "Armazenar e proteger o encéfalo, além de proporcionar fixação aos músculos do rosto e da boca"
+        answer:   "d"
+        score:    10
+      - question: "Como é o crânio em vertebrados inferiores?"
+        option_a: "É formado por cartilagem durante toda a vida do organismo"
+        option_b: "É formado por cálcio na fase embrionária e cartilagem após o nascimento"
+        option_c: "É formado por células chamadas alvéolos"
+        option_d: "É formado por brônquios"
+        answer:   "a"
+        score:    10
+      - question: "Como é o crânio do ser humano?"
+        option_a: "É formado por brônquios"
+        option_b: "É formado por cartilagem durante toda a vida do organismo"
+        option_c: "Cartilaginoso durante a fase embrionária e se calcifica após o nascimento"
+        option_d: "Calcário durante a fase embrionária e cartilaginoso após o nascimento"
+        answer:   "c"
+        score:    10
+      - question: "Quais são os ossos que formam o crânio?"
+        option_a: "Parietal (dois), Temporal (dois), Frontal, Occipital, Esfenóide, Etmóide"
+        option_b: "Parietal (dois), Temporal (dois), Occipital, Esfenóide, Etmóide"
+        option_c: "Parietal (dois), Frontal, Occipital, Esfenóide, Etmóide"
+        option_d: "Temporal (dois), Frontal, Occipital, Esfenóide, Etmóide"
+        answer:   "a"
+        score:    10
+    word_searches_games:
+      - words:
+        - tip: "O crânio tem uma estrutura"
+          answer: "Rígida"
+        - tip: "Animais que possuem crânio"
+          answer: "Vertebrados"
+        - tip: "A função do crânio é armazenar e proteger o"
+          answer: "Encéfalo"
+        - tip: "Em vertebrados inferiores, o crânio é formado por"
+          answer: "Cartilagem"
+        - tip: "Osso do crânio"
+          answer: "Parietal"
+        score: 10
+      - words:
+        - tip: "No ser humano, o crânio é cartilaginoso na fase"
+          answer: "Embrionária"
+        - tip: "No ser humano, o crânio se calcifica após o"
+          answer: "Nascimento"
+        - tip: "Quantidade de ossos no crânio"
+          answer: "Oito"
+        - tip: "Osso do crânio"
+          answer: "Temporal"
+        - tip: "Osso do crânio"
+          answer: "Esfenóide"
+        score: 10
+    association_games:
+      - tip_answers:
+        - tip: "O crânio tem uma estrutura"
+          answer: "Rígida"
+        - tip: "Animais que possuem crânio"
+          answer: "Vertebrados"
+        - tip: "A função do crânio é armazenar e proteger o"
+          answer: "Encéfalo"
+        - tip: "Em vertebrados inferiores, o crânio é formado por"
+          answer: "Cartilagem"
+        - tip: "Osso do crânio"
+          answer: "Parietal"
+        score: 10
+      - tip_answers:
+        - tip: "No ser humano, o crânio é cartilaginoso na fase"
+          answer: "Embrionária"
+        - tip: "No ser humano, o crânio se calcifica após o "
+          answer: "Nascimento"
+        - tip: "Quantidade de ossos no crânio"
+          answer: "Oito"
+        - tip: "Osso do crânio"
+          answer: "Temporal"
+        - tip: "Osso do crânio"
+          answer: "Esfenóide"
+        score: 10
   - name: "Dente"
     image_file_name: "teeth.obj"
     stage: 7
